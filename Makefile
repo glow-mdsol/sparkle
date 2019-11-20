@@ -21,13 +21,13 @@ build: $(ON) $(GO_BINDATA) clean $(TARGET)
 clean:
 	@rm -rf server/data/static/build/*
 	@rm -rf server/data/bundle.server.js
-	@rm -rf $(BINDATA)
+	@$(GO_PACKR) clean
 
 $(BUNDLE): $(APP)
 	@$(NODE_BIN)/webpack --progress --colors --bail
 
 $(TARGET): $(BUNDLE) $(BINDATA)
-	@go build -ldflags '$(LDFLAGS)' -o $@ $(IMPORT_PATH)/server
+	@vgo build -ldflags '$(LDFLAGS)' -o $@ $(IMPORT_PATH)/server
 
 kill:
 	@kill `cat $(PID)` || true
@@ -45,7 +45,7 @@ restart: $(BINDATA) kill $(TARGET)
 	@$(TARGET) run & echo $$! > $(PID)
 
 $(BINDATA):
-	$(GO_PACKR) build -i ./server
+	@$(GO_PACKR) -i ./server/data/
 
 lint:
 #	@yarn run eslint || true

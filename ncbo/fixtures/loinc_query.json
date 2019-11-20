@@ -1,0 +1,2519 @@
+{
+  "page": 1,
+  "pageCount": 340,
+  "totalCount": 16970,
+  "prevPage": null,
+  "nextPage": 2,
+  "links": {
+    "nextPage": "http://data.bioontology.org/search?q=27873-9&ontologies=LOINC&page=2",
+    "prevPage": null
+  },
+  "collection": [
+    {
+      "prefLabel": "9",
+      "cui": [
+        "C0205455"
+      ],
+      "semanticType": [
+        "T081"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA10141-2",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA10141-2",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA10141-2/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA10141-2/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA10141-2/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA10141-2/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA10141-2/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA10141-2/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA10141-2/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA10141-2/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA10141-2",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9:00-9:30am",
+      "cui": [
+        "C3840585"
+      ],
+      "semanticType": [
+        "T079"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA17870-9",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17870-9",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17870-9/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17870-9/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17870-9/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17870-9/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17870-9/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17870-9/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17870-9/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17870-9/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17870-9",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9:00-9:30pm",
+      "cui": [
+        "C3842716"
+      ],
+      "semanticType": [
+        "T079"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA17893-1",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17893-1",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17893-1/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17893-1/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17893-1/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17893-1/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17893-1/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17893-1/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17893-1/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17893-1/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA17893-1",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "1 - 9%",
+      "cui": [
+        "C3842508"
+      ],
+      "semanticType": [
+        "T081"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA16636-5",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16636-5",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16636-5/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16636-5/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16636-5/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16636-5/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16636-5/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16636-5/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16636-5/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16636-5/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16636-5",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Chromosome 9",
+      "cui": [
+        "C0008672"
+      ],
+      "semanticType": [
+        "T026"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA21262-3",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21262-3",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21262-3/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21262-3/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21262-3/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21262-3/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21262-3/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21262-3/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21262-3/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21262-3/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21262-3",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Line 9",
+      "cui": [
+        "C3843258"
+      ],
+      "semanticType": [
+        "T033"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA16320-6",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16320-6",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16320-6/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16320-6/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16320-6/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16320-6/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16320-6/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16320-6/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16320-6/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16320-6/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA16320-6",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9-Hydroxyrisperidone",
+      "cui": [
+        "C0753678"
+      ],
+      "semanticType": [
+        "T109",
+        "T121"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/MTHU027456",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU027456",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU027456/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU027456/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU027456/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU027456/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU027456/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU027456/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU027456/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU027456/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU027456",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "ICD-9",
+      "cui": [
+        "C1137111"
+      ],
+      "semanticType": [
+        "T170"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA3926-8",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA3926-8",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA3926-8/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA3926-8/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA3926-8/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA3926-8/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA3926-8/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA3926-8/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA3926-8/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA3926-8/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA3926-8",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9 - Extremely",
+      "cui": [
+        "C4035836"
+      ],
+      "semanticType": [
+        "T033"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA21718-4",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21718-4",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21718-4/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21718-4/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21718-4/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21718-4/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21718-4/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21718-4/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21718-4/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21718-4/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21718-4",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "> 9 uV",
+      "cui": [
+        "C3842992"
+      ],
+      "semanticType": [
+        "T033"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA15067-4",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15067-4",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15067-4/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15067-4/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15067-4/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15067-4/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15067-4/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15067-4/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15067-4/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15067-4/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15067-4",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "C5B-9",
+      "cui": [
+        "C0009545"
+      ],
+      "semanticType": [
+        "T116",
+        "T129"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP14621-4",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP14621-4",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP14621-4/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP14621-4/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP14621-4/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP14621-4/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP14621-4/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP14621-4/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP14621-4/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP14621-4/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP14621-4",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Reported.PHQ-9",
+      "cui": [
+        "C1719157"
+      ],
+      "semanticType": [
+        "T170"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP36711-7",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP36711-7",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP36711-7/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP36711-7/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP36711-7/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP36711-7/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP36711-7/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP36711-7/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP36711-7/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP36711-7/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP36711-7",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9 - Poor",
+      "cui": [
+        "C4035800"
+      ],
+      "semanticType": [
+        "T033"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA21715-0",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21715-0",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21715-0/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21715-0/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21715-0/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21715-0/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21715-0/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21715-0/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21715-0/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21715-0/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA21715-0",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "5-9",
+      "cui": [
+        "C3840622"
+      ],
+      "semanticType": [
+        "T033"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA14573-2",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14573-2",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14573-2/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14573-2/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14573-2/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14573-2/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14573-2/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14573-2/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14573-2/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14573-2/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14573-2",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9-Hydroxyrisperidone:MCnt:Pt:Hair:Qn",
+      "synonym": [
+        "9OH-Risperidone Hair-mCnt",
+        "9-Hydroxyrisperidone:Mass Content:Point in time:Hair:Quantitative",
+        "9-Hydroxyrisperidone [Mass/mass] in Hair"
+      ],
+      "cui": [
+        "C4070823"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/78771-3",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F78771-3",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F78771-3/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F78771-3/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F78771-3/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F78771-3/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F78771-3/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F78771-3/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F78771-3/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F78771-3/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F78771-3",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Sibling 9",
+      "cui": [
+        "C3843869"
+      ],
+      "semanticType": [
+        "T099"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA15960-0",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15960-0",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15960-0/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15960-0/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15960-0/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15960-0/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15960-0/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15960-0/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15960-0/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15960-0/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15960-0",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Echovirus 9",
+      "cui": [
+        "C0013532"
+      ],
+      "semanticType": [
+        "T005"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP16696-4",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16696-4",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16696-4/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16696-4/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16696-4/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16696-4/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16696-4/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16696-4/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16696-4/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16696-4/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16696-4",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "5 - 9",
+      "cui": [
+        "C3840622"
+      ],
+      "semanticType": [
+        "T033"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA15696-0",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15696-0",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15696-0/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15696-0/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15696-0/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15696-0/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15696-0/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15696-0/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15696-0/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15696-0/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15696-0",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9-10",
+      "cui": [
+        "C3843713"
+      ],
+      "semanticType": [
+        "T081"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA14356-2",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14356-2",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14356-2/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14356-2/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14356-2/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14356-2/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14356-2/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14356-2/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14356-2/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14356-2/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14356-2",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9-Hydroxyrisperidone",
+      "cui": [
+        "C0753678"
+      ],
+      "semanticType": [
+        "T109",
+        "T121"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP17865-4",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17865-4",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17865-4/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17865-4/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17865-4/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17865-4/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17865-4/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17865-4/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17865-4/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17865-4/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17865-4",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9-Hydroxyrisperidone:MCnc:Pt:Urine:Qn",
+      "synonym": [
+        "9-Hydroxyrisperidone [Mass/volume] in Urine",
+        "9OH-Risperidone Ur-mCnc",
+        "9-Hydroxyrisperidone:Mass Concentration:Point in time:Urine:Quantitative"
+      ],
+      "cui": [
+        "C2970007"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/60116-1",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60116-1",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60116-1/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60116-1/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60116-1/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60116-1/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60116-1/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60116-1/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60116-1/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60116-1/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60116-1",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9-Hydroxyrisperidone:MCnc:Pt:Bld:Qn",
+      "synonym": [
+        "9-Hydroxyrisperidone [Mass/volume] in Blood",
+        "9OH-Risperidone Bld-mCnc",
+        "9-Hydroxyrisperidone:Mass Concentration:Point in time:Whole blood:Quantitative"
+      ],
+      "cui": [
+        "C2970006"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/60115-3",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60115-3",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60115-3/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60115-3/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60115-3/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60115-3/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60115-3/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60115-3/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60115-3/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60115-3/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F60115-3",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "7 - 9",
+      "cui": [
+        "C3841787"
+      ],
+      "semanticType": [
+        "T033"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA15708-3",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15708-3",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15708-3/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15708-3/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15708-3/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15708-3/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15708-3/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15708-3/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15708-3/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15708-3/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15708-3",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9-18",
+      "cui": [
+        "C3843366"
+      ],
+      "semanticType": [
+        "T081"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA14615-1",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14615-1",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14615-1/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14615-1/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14615-1/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14615-1/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14615-1/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14615-1/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14615-1/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14615-1/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA14615-1",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Echovirus 9 Ab:PrThr:Pt:Ser:Ord:Comp fix",
+      "synonym": [
+        "ECV9 Ab Ser Ql CF",
+        "Echovirus 9 Ab [Presence] in Serum by Complement fixation",
+        "Echovirus 9 Antibody:Presence or Threshold:Point in time:Serum:Ordinal:Complement Fixation"
+      ],
+      "cui": [
+        "C1114890"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/30337-0",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F30337-0",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F30337-0/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F30337-0/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F30337-0/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F30337-0/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F30337-0/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F30337-0/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F30337-0/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F30337-0/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F30337-0",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Risperidone+9-Hydroxyrisperidone",
+      "cui": [
+        "C0487468"
+      ],
+      "semanticType": [
+        "T109",
+        "T121"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP17873-8",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17873-8",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17873-8/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17873-8/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17873-8/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17873-8/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17873-8/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17873-8/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17873-8/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17873-8/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17873-8",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Legionella pneumophila 9 Ab.IgM:Titr:Pt:Ser:Qn:IF",
+      "synonym": [
+        "Legionella pneumophila 9 IgM Ab [Titer] in Serum by Immunofluorescence",
+        "L pneumo9 IgM Titr Ser IF",
+        "Legionella pneumophila 9 Antibody.immunoglobulin M:Dilution Factor (Titer):Point in time:Serum:Quantitative:Immune Fluorescence"
+      ],
+      "cui": [
+        "C1831188"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/47081-5",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47081-5",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47081-5/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47081-5/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47081-5/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47081-5/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47081-5/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47081-5/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47081-5/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47081-5/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47081-5",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "C5B-9 Ag",
+      "synonym": [
+        "C5B-9 Antigen"
+      ],
+      "cui": [
+        "C0486485"
+      ],
+      "semanticType": [
+        "T129"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/MTHU001649",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU001649",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU001649/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU001649/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU001649/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU001649/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU001649/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU001649/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU001649/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU001649/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU001649",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Echovirus 9 Ab:Titr:Pt:Ser:Qn:Neut",
+      "synonym": [
+        "Echovirus 9 Antibody:Dilution Factor (Titer):Point in time:Serum:Quantitative:Neutralization",
+        "Echovirus 9 Ab [Titer] in Serum by Neutralization test",
+        "ECV9 Ab Titr Ser Nt"
+      ],
+      "cui": [
+        "C0368307"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/5146-6",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F5146-6",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F5146-6/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F5146-6/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F5146-6/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F5146-6/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F5146-6/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F5146-6/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F5146-6/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F5146-6/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F5146-6",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Chromosome 9 trisomy",
+      "cui": [
+        "C0432411"
+      ],
+      "semanticType": [
+        "T047"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/MTHU010204",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU010204",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU010204/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU010204/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU010204/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU010204/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU010204/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU010204/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU010204/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU010204/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU010204",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "C5B-9 Ag",
+      "cui": [
+        "C0486485"
+      ],
+      "semanticType": [
+        "T129"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP37466-7",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37466-7",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37466-7/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37466-7/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37466-7/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37466-7/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37466-7/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37466-7/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37466-7/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37466-7/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37466-7",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Avian paramyxovirus 9 Ab:Titr:Pt:Ser:Qn",
+      "synonym": [
+        "APMV9 Ab Titr Ser",
+        "Avian paramyxovirus 9 Ab [Titer] in Serum",
+        "Avian paramyxovirus 9 Antibody:Dilution Factor (Titer):Point in time:Serum:Quantitative"
+      ],
+      "cui": [
+        "C1714696"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/43348-2",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43348-2",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43348-2/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43348-2/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43348-2/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43348-2/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43348-2/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43348-2/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43348-2/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43348-2/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43348-2",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Legionella pneumophila 9 Ab:Titr:Pt:Ser:Qn:IF",
+      "synonym": [
+        "Legionella pneumophila 9 Antibody:Dilution Factor (Titer):Point in time:Serum:Quantitative:Immune Fluorescence",
+        "L pneumo9 Ab Titr Ser IF",
+        "Legionella pneumophila 9 Ab [Titer] in Serum by Immunofluorescence"
+      ],
+      "cui": [
+        "C0485521"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/7956-6",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F7956-6",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F7956-6/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F7956-6/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F7956-6/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F7956-6/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F7956-6/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F7956-6/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F7956-6/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F7956-6/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F7956-6",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Risperidone & 9-Hydroxyrisperidone panel",
+      "cui": [
+        "C2708361"
+      ],
+      "semanticType": [
+        "T059"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP93478-3",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP93478-3",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP93478-3/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP93478-3/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP93478-3/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP93478-3/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP93478-3/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP93478-3/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP93478-3/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP93478-3/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP93478-3",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9 AM specimen",
+      "cui": [
+        "C1979562"
+      ],
+      "semanticType": [
+        "T167"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP65517-2",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP65517-2",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP65517-2/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP65517-2/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP65517-2/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP65517-2/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP65517-2/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP65517-2/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP65517-2/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP65517-2/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP65517-2",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9-11 grades",
+      "cui": [
+        "C3846699"
+      ],
+      "semanticType": [
+        "T033"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA37-7",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA37-7",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA37-7/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA37-7/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA37-7/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA37-7/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA37-7/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA37-7/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA37-7/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA37-7/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA37-7",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Echovirus 9 Ab:Titr:Pt:Body fld:Qn",
+      "synonym": [
+        "ECV9 Ab Titr Fld",
+        "Echovirus 9 Antibody:Dilution Factor (Titer):Point in time:Body fluid, unsp:Quantitative",
+        "Echovirus 9 Ab [Titer] in Body fluid"
+      ],
+      "cui": [
+        "C1632389"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/43041-3",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43041-3",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43041-3/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43041-3/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43041-3/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43041-3/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43041-3/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43041-3/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43041-3/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43041-3/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F43041-3",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Echovirus 9 Ab",
+      "cui": [
+        "C0805973"
+      ],
+      "semanticType": [
+        "T116",
+        "T129"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP37999-7",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37999-7",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37999-7/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37999-7/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37999-7/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37999-7/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37999-7/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37999-7/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37999-7/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37999-7/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP37999-7",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "HLA-A23(9)",
+      "cui": [
+        "C0248450"
+      ],
+      "semanticType": [
+        "T116",
+        "T129"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP16508-1",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16508-1",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16508-1/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16508-1/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16508-1/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16508-1/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16508-1/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16508-1/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16508-1/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16508-1/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP16508-1",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Risperidone+9-Hydroxyrisperidone:MCnc:Pt:Ser/Plas:Qn",
+      "synonym": [
+        "Risperidone+9OH-Ris SerPl-mCnc",
+        "Risperidone+9-Hydroxyrisperidone:Mass Concentration:Point in time:Serum/Plasma:Quantitative",
+        "Risperidone+9-Hydroxyrisperidone [Mass/volume] in Serum or Plasma"
+      ],
+      "cui": [
+        "C0484991"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/9394-8",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F9394-8",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F9394-8/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F9394-8/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F9394-8/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F9394-8/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F9394-8/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F9394-8/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F9394-8/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F9394-8/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F9394-8",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Legionella pneumophila 9 Ab:PrThr:Pt:Ser:Ord",
+      "synonym": [
+        "Legionella pneumophila 9 Antibody:Presence or Threshold:Point in time:Serum:Ordinal",
+        "L pneumo9 Ab Ser Ql",
+        "Legionella pneumophila 9 Ab [Presence] in Serum"
+      ],
+      "cui": [
+        "C0800202"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/17073-8",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F17073-8",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F17073-8/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F17073-8/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F17073-8/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F17073-8/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F17073-8/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F17073-8/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F17073-8/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F17073-8/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F17073-8",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Legionella pneumophila 9 Ab.IgG:Titr:Pt:Ser:Qn:IF",
+      "synonym": [
+        "Legionella pneumophila 9 Antibody.immunoglobulin G:Dilution Factor (Titer):Point in time:Serum:Quantitative:Immune Fluorescence",
+        "L pneumo9 IgG Titr Ser IF",
+        "Legionella pneumophila 9 IgG Ab [Titer] in Serum by Immunofluorescence"
+      ],
+      "cui": [
+        "C1831186"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/47080-7",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47080-7",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47080-7/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47080-7/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47080-7/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47080-7/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47080-7/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47080-7/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47080-7/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47080-7/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F47080-7",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Streptococcus pneumoniae 9",
+      "cui": [
+        "C1441264"
+      ],
+      "semanticType": [
+        "T129"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP19223-4",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP19223-4",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP19223-4/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP19223-4/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP19223-4/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP19223-4/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP19223-4/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP19223-4/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP19223-4/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP19223-4/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP19223-4",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "HLA-DQB1*9",
+      "synonym": [
+        "human histocompatibility complex derived antigens-DQB1*9"
+      ],
+      "cui": [
+        "C2599795"
+      ],
+      "semanticType": [
+        "T116",
+        "T129"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/MTHU034090",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU034090",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU034090/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU034090/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU034090/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU034090/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU034090/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU034090/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU034090/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU034090/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FMTHU034090",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Risperidone+9-Hydroxyrisperidone:SCnc:Pt:Ser/Plas:Qn",
+      "synonym": [
+        "Risperidone+9-Hydroxyrisperidone [Moles/volume] in Serum or Plasma",
+        "Risperidone+9-Hydroxyrisperidone:Substance Concentration:Point in time:Serum/Plasma:Quantitative",
+        "Risperidone+9OH-Ris SerPl-sCnc"
+      ],
+      "cui": [
+        "C1543842"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/39800-8",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F39800-8",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F39800-8/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F39800-8/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F39800-8/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F39800-8/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F39800-8/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F39800-8/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F39800-8/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F39800-8/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F39800-8",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "8(9)-Cholestenol:SCnc:Pt:Ser/Plas:Qn",
+      "synonym": [
+        "8(9)-Cholestenol:Substance Concentration:Point in time:Serum/Plasma:Quantitative",
+        "8(9)-Cholestenol [Moles/volume] in Serum or Plasma",
+        "8(9)-Cholestenol SerPl-sCnc"
+      ],
+      "cui": [
+        "C3869998"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/76022-3",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F76022-3",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F76022-3/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F76022-3/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F76022-3/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F76022-3/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F76022-3/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F76022-3/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F76022-3/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F76022-3/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F76022-3",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Legionella pneumophila 9",
+      "cui": [
+        "C1440888"
+      ],
+      "semanticType": [
+        "T129"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP17713-6",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17713-6",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17713-6/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17713-6/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17713-6/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17713-6/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17713-6/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17713-6/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17713-6/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17713-6/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP17713-6",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "9 or more hours",
+      "cui": [
+        "C3842635"
+      ],
+      "semanticType": [
+        "T033"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LA15837-0",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15837-0",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15837-0/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15837-0/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15837-0/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15837-0/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15837-0/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15837-0/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15837-0/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15837-0/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLA15837-0",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Legionella pneumophila 9 Ab:ACnc:Pt:Ser:Qn",
+      "synonym": [
+        "Legionella pneumophila 9 Ab [Units/volume] in Serum",
+        "L pneumo9 Ab Ser-aCnc",
+        "Legionella pneumophila 9 Antibody:Arbitrary Concentration:Point in time:Serum:Quantitative"
+      ],
+      "cui": [
+        "C1147154"
+      ],
+      "semanticType": [
+        "T201"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/31470-8",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F31470-8",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F31470-8/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F31470-8/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F31470-8/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F31470-8/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F31470-8/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F31470-8/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F31470-8/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F31470-8/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2F31470-8",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "synonym": "http://data.bioontology.org/metadata/skossynonym",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    },
+    {
+      "prefLabel": "Legionella pneumophila 9 Ab.IgM",
+      "cui": [
+        "C1831189"
+      ],
+      "semanticType": [
+        "T116",
+        "T129"
+      ],
+      "obsolete": false,
+      "matchType": "prefLabel",
+      "ontologyType": "ONTOLOGY",
+      "provisional": false,
+      "@id": "http://purl.bioontology.org/ontology/LNC/LP63061-3",
+      "@type": "http://www.w3.org/2002/07/owl#Class",
+      "links": {
+        "self": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP63061-3",
+        "ontology": "http://data.bioontology.org/ontologies/LOINC",
+        "children": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP63061-3/children",
+        "parents": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP63061-3/parents",
+        "descendants": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP63061-3/descendants",
+        "ancestors": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP63061-3/ancestors",
+        "instances": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP63061-3/instances",
+        "tree": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP63061-3/tree",
+        "notes": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP63061-3/notes",
+        "mappings": "http://data.bioontology.org/ontologies/LOINC/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP63061-3/mappings",
+        "ui": "http://bioportal.bioontology.org/ontologies/LOINC?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FLNC%2FLP63061-3",
+        "@context": {
+          "self": "http://www.w3.org/2002/07/owl#Class",
+          "ontology": "http://data.bioontology.org/metadata/Ontology",
+          "children": "http://www.w3.org/2002/07/owl#Class",
+          "parents": "http://www.w3.org/2002/07/owl#Class",
+          "descendants": "http://www.w3.org/2002/07/owl#Class",
+          "ancestors": "http://www.w3.org/2002/07/owl#Class",
+          "instances": "http://data.bioontology.org/metadata/Instance",
+          "tree": "http://www.w3.org/2002/07/owl#Class",
+          "notes": "http://data.bioontology.org/metadata/Note",
+          "mappings": "http://data.bioontology.org/metadata/Mapping",
+          "ui": "http://www.w3.org/2002/07/owl#Class"
+        }
+      },
+      "@context": {
+        "@vocab": "http://data.bioontology.org/metadata/",
+        "prefLabel": "http://data.bioontology.org/metadata/skosprefLabel",
+        "obsolete": "http://data.bioontology.org/metadata/owlobsolete",
+        "semanticType": "http://data.bioontology.org/metadata/umlssemanticType",
+        "cui": "http://data.bioontology.org/metadata/umlscui"
+      }
+    }
+  ]
+}
