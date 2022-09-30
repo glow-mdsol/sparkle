@@ -27,7 +27,7 @@
   "dependencies": {
     "autoprefixer": "^9.2.0",
     "babel-polyfill": "^6.26.0",
-    "d3": "^5.7.0",
+    "d3": "^7.6.1",
     "normalize.css": "^8.0.0",
     "postcss-functions": "^3.0.0",
     "precss": "^3.1.2",
